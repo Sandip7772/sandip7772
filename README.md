@@ -52,7 +52,7 @@
 📫 **Let's Connect**
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sandip-khadka7772/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/sandip-khadka7772/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" style="margin-right:15px;" />
   </a>
   <a href="https://facebook.com/sandipkhadka" target="_blank">
