@@ -4,8 +4,11 @@
 <h3 align="center">Information Security Analyst | Ethical Hacking Enthusiast | BSc.CSIT Graduate</h3>
 
 ---
-
-🔐 **About Me**
+<table>
+  <tr>
+    <!-- Left column: About Me -->
+    <td width="60%" valign="top">
+      🔐 **About Me**
 
 - 💼 Working as a **Information Security Analyst**
 - 🎓 Graduate in **BSc.CSIT**
@@ -18,6 +21,17 @@
   - **Axigen Mail Server** (Mail Server Setup & Integration with AD)
 - 🌱 Currently learning **SIEM**, **SOC operations**, and
 - 📫 Reach me: `sandipkhadka7772@gmail.com`
+
+    </td>
+    <!-- Right column: GIF -->
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b3VnaXI2ZW40MGhjbzJ2cnp2YjJ6Ym0yZm1xMXd2M2dicGptdDB6NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="250" alt="Hacker Animation"/>
+    </td>
+  </tr>
+</table>
+
+
+
 
 ---
 
@@ -35,6 +49,24 @@
 | Platforms                | Windows Server, Linux (Ubuntu/Kali)                                        |
 
 ---
+📫 **Let's Connect**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sandip-khadka7772/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" style="margin-right:15px;" />
+  </a>
+  <a href="https://facebook.com/sandipkhadka" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40" style="margin-right:15px;" />
+  </a>
+  <a href="https://github.com/sandip7772" target="_blank">
+    <img src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub" width="40" height="40" />
+  </a>
+</p>
+
+
+
+---
+
 
 📁 **Featured Projects**
 
@@ -45,6 +77,7 @@
 
 ---
 
+
 📊 **GitHub Stats**
 
 <p align="center">
@@ -54,13 +87,6 @@
 
 ---
 
-📫 **Let's Connect**
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sandip-khadka7772/)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/sandipkhadka)
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)](https://github.com/sandip7772)
-
----
 
 🧠 **Quote I Live By**
 
