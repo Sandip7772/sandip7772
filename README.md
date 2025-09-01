@@ -8,7 +8,7 @@
   <tr>
     <!-- Left column: About Me -->
     <td width="60%" valign="top">
-      🔐 **About Me**
+      🔐 About Me
 
 - 💼 Working as a **Information Security Analyst**
 - 🎓 Graduate in **BSc.CSIT**
