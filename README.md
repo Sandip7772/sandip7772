@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for sandipkhadka -->
 
 <h1 align="center">Hi 👋, I'm Sandip Khadka</h1>
-<h3 align="center">Information Security Analyst | Ethical Hacking Enthusiast | BSc.CSIT Graduate</h3>
+<h3 align="center">Cyber Security Analyst | Cloud Security & SOC Operations | BSc.CSIT Graduate</h3>
 
 ---
 <table>
@@ -10,16 +10,17 @@
     <td width="60%" valign="top">
       🔐 About Me
 
-- 💼 Working as a **Information Security Analyst**
-- 🎓 Graduate in **BSc.CSIT**
-- 🛡️ Skilled in Endpoint & Network Security, Vulnerability Management, Patch Automation & SIEM
+- 💼 Working as a **Cyber Security Analyst** at **UK Property Accountants**
+- 🎓 Graduate in **BSc.CSIT** (Academia International College, 2021–2025)
+- 🛡️ Experienced in Cloud Security, SIEM Engineering, SOC Operations, Threat Detection & Incident Response
 - 🧠 Knowledgeable in tools like:
-  - **CrowdStrike** (EDR/XDR, Threat Detection & SIEM)
-  - **Rapid7** (Vulnerability Scanning & Risk Analysis)
-  - **PDQ** (Patch Management & Software Deployment)
-  - **Splashtop** (Remote Access Management)
-  - **Axigen Mail Server** (Mail Server Setup & Integration with AD)
-- 🌱 Currently learning **SIEM**, **SOC operations**, and
+  - **Microsoft Sentinel & Microsoft Defender XDR** (SIEM, Cloud & Endpoint Security)
+  - **Microsoft Azure** (Cloud Security)
+  - **CrowdStrike Falcon** (EDR/XDR, LogScale SIEM, Threat Hunting & Incident Response)
+  - **IBM QRadar** (Log Correlation & Alert Analysis)
+  - **Rapid7 InsightVM, Nessus, OpenVAS** (Vulnerability Management)
+  - **Wireshark, Nmap** (Network Analysis)
+- 🧭 Grounded in **MITRE ATT&CK**, **NIST CSF**, **ISO/IEC 27001**, **Cyber Essentials** & **OWASP Top 10**
 - 📫 Reach me: `sandipkhadka7772@gmail.com`
 
     </td>
@@ -30,6 +31,33 @@
   </tr>
 </table>
 
+---
+
+💼 **Professional Experience**
+
+**Cyber Security Analyst** — UK Property Accountants *(Apr 2026 – Present)*
+- Monitor and investigate security events using Microsoft Sentinel, Microsoft Defender XDR & Microsoft Azure Security
+- Perform incident response, threat hunting, cloud security and patch management
+- Analyse security logs and implement security monitoring across cloud environments
+
+**Information Security Analyst** — Raechal Enterprises Pvt. Ltd. *(Jan 2025 – Apr 2026)*
+- Monitored and investigated security alerts using CrowdStrike Falcon (EDR/XDR)
+- Investigated security events using CrowdStrike SIEM/LogScale and IBM QRadar through log correlation
+- Performed vulnerability assessments using Rapid7 InsightVM, Nessus and OpenVAS
+
+---
+
+🎖️ **Certifications**
+
+- Falcon Next-Gen SIEM Specialist | CrowdStrike University
+- Falcon Administrator | CrowdStrike University
+- Incident Responder | CrowdStrike University
+- Threat Hunter | CrowdStrike University
+- Certified Blue Team Practitioner (CBTP) | The SecOps Group
+- Certified Threat Intelligence & Governance Analyst (CTIGA) | Red Team Leaders
+- Detection and Response | Google (Coursera)
+- Certified Ethical Hacker (CEH) | Broadway Infosys
+
 
 
 
@@ -39,14 +67,13 @@
 
 | Category                 | Tools/Tech                                                                 |
 |--------------------------|----------------------------------------------------------------------------|
-| Endpoint Security & SIEM | CrowdStrike                                                                |
-| Vulnerability Management | Rapid7, OpenVAS, Tenable Nessus                                            |
-| Patch Automation         | PDQ Deploy & Inventory                                                     |
-| Remote Support           | Splashtop, AnyDesk                                                         |
-| Email Security           | Axigen Mail Server, SPF/DKIM/DMARC setup                                   |
-| Development              | Python, Django, HTML/CSS                                                   |
-| Networking               | Wireshark, Nmap, TCP/IP, DNS, Firewall basics                              |
-| Platforms                | Windows Server, Linux (Ubuntu/Kali)                                        |
+| SIEM                     | Microsoft Sentinel, CrowdStrike Falcon LogScale, IBM QRadar                |
+| Cloud Security           | Microsoft Azure, Microsoft Defender for Cloud                             |
+| EDR/XDR                  | CrowdStrike Falcon, Microsoft Defender XDR                                 |
+| Vulnerability Management | Rapid7 InsightVM, Nessus, OpenVAS                                          |
+| Network Analysis         | Wireshark, Nmap                                                            |
+| Platforms                | Windows, Windows Server, Linux (Ubuntu, Kali)                             |
+| Frameworks               | MITRE ATT&CK, NIST CSF, ISO/IEC 27001, Cyber Essentials, OWASP Top 10, CVSS|
 
 ---
 📫 **Let's Connect**
